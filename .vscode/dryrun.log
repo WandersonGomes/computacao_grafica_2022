@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/lobonegro/Desktop/computacao_grafica_2022'
+gcc main.c -o programa -lGL -lGLU -lglut
+./programa
+make: Leaving directory '/home/lobonegro/Desktop/computacao_grafica_2022'
+ 
